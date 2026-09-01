@@ -3,6 +3,7 @@
 
 ## Extension
 out/
+dist/
 data/
 
 ## NodeJS
